@@ -1,0 +1,17 @@
+
+## How-to use it
+On the screen there are a few main objects:
+ - A TextView for displaying incoming messages
+ - A TextField for entering messages
+ - A Button for sending messages
+ - A Button for connecting with nearby devices
+
+
+## How does it work
+The Multipeer Connectivity framework enables communication between devices using Wi-Fi, Bluetooth, or peer-to-peer Wi-Fi. It provides a high-level API that abstracts the underlying network protocols and handles the complexities of establishing and maintaining connections.
+
+### Some of the key components of the Multipeer Connectivity framework include:
+ - **MCSession**: An object that represents a session between connected peers.
+ - **MCPeerID**: Identifies each user uniquely in a session.
+ - **MCAdvertiserAssistant**: An object that advertises the availability of your app to nearby devices.
+ - **MCNearbyServiceBrowser**: An object that helps discover nearby devices that are advertising their availability.

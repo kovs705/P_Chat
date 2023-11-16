@@ -13,6 +13,7 @@
 		E588439D2B0570F10096F882 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E588439B2B0570F10096F882 /* Main.storyboard */; };
 		E588439F2B0570F20096F882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E588439E2B0570F20096F882 /* Assets.xcassets */; };
 		E58843A22B0570F20096F882 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E58843A02B0570F20096F882 /* LaunchScreen.storyboard */; };
+		E58843AA2B0572540096F882 /* how-to.readme in Resources */ = {isa = PBXBuildFile; fileRef = E58843A92B0572540096F882 /* how-to.readme */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E588439E2B0570F20096F882 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E58843A12B0570F20096F882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E58843A32B0570F20096F882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E58843A92B0572540096F882 /* how-to.readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "how-to.readme"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E58843952B0570F10096F882 /* AppDelegate.swift */,
 				E58843972B0570F10096F882 /* SceneDelegate.swift */,
 				E58843992B0570F10096F882 /* ViewController.swift */,
+				E58843A92B0572540096F882 /* how-to.readme */,
 				E588439B2B0570F10096F882 /* Main.storyboard */,
 				E588439E2B0570F20096F882 /* Assets.xcassets */,
 				E58843A02B0570F20096F882 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 				E58843A22B0570F20096F882 /* LaunchScreen.storyboard in Resources */,
 				E588439F2B0570F20096F882 /* Assets.xcassets in Resources */,
 				E588439D2B0570F10096F882 /* Main.storyboard in Resources */,
+				E58843AA2B0572540096F882 /* how-to.readme in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
