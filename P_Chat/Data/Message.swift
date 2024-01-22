@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Message {
+    let content: String
+    let sender: String
+}
